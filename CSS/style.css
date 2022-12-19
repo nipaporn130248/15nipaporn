@@ -1,0 +1,18 @@
+h1{
+    	color:  #fd6b0a;
+		
+}
+
+div.container {
+	text-align: center;
+
+}
+ul.myUL {
+	display: inline-block;
+	text-align: left;
+  }
+ 
+  ol.myUL {
+	display: inline-block;
+	text-align: left;
+  }
